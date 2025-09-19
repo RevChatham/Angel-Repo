@@ -1,0 +1,22 @@
+Cybersecurity Incident Report Draft  
+
+Triage
+
+Time:
+Alert Source:
+Description
+
+
+Endpoint ID:
+Endpoint IP:
+Endpoint OS:
+
+File Name:
+File Path:
+File Origin:
+File SHA256?:
+
+
+Username:
+
+Description of Event:
